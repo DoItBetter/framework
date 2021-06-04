@@ -54,7 +54,7 @@
         <json.lib.version>2.4</json.lib.version>
         <alibaba.fastjson.version>1.2.37</alibaba.fastjson.version>
         <mybatis.spring.boot.starter.version>2.0.1</mybatis.spring.boot.starter.version>
-        <org.apache.httpcomponents.httpclient.version>4.5.2</org.apache.httpcomponents.httpclient.version>
+        <org.apache.httpcomponents.httpclient.version>4.5.13</org.apache.httpcomponents.httpclient.version>
         <jodd.http.version>5.0.13</jodd.http.version>
         <ok.http.version>4.2.0</ok.http.version>
         <!-- framework 1.0.1 维护 -->
